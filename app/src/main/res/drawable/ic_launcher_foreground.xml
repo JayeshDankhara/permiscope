@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A shield with an eye: "see who can see you". Drawn inside the 66dp safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 L76,34 L76,52 C76,66 66,77 54,82 C42,77 32,66 32,52 L32,34 Z" />
+    <path
+        android:fillColor="#0F3D3E"
+        android:pathData="M54,44 C45,44 39,51 38,54 C39,57 45,64 54,64 C63,64 69,57 70,54 C69,51 63,44 54,44 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,48 A6,6 0 1,1 53.99,48 Z" />
+    <path
+        android:fillColor="#0F3D3E"
+        android:pathData="M54,51 A3,3 0 1,1 53.99,51 Z" />
+</vector>
